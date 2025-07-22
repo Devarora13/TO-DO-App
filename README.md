@@ -2,7 +2,7 @@
 
 A full-stack mobile application built with React Native, Expo, and Firebase. Features user authentication, real-time task management, and profile customization with image uploads.
 
-## � Features
+## 🚀 Features
 
 - **User Authentication**: Secure login and registration with Firebase Auth
 - **Real-time Todo Management**: Create, read, update, and delete tasks
